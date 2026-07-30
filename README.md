@@ -1,4 +1,4 @@
-# sama_mov API
+# mov API
 
 An ASP.NET Core Web API for a cinema booking system: manages movies, halls, customers, and tickets.
 
